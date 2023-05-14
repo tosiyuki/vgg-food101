@@ -1,7 +1,7 @@
 # VGG-FOOD101
 PyTorchを使用して[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) を参考にVGGの実装を行った。
 
-データセットにはImageNetの代わりに(Food 101)[https://www.kaggle.com/datasets/dansbecker/food-101]を使用しています。
+データセットにはImageNetの代わりに[Food 101](https://www.kaggle.com/datasets/dansbecker/food-101)を使用しています。
 
 ## 訓練コードの実行
 ```
